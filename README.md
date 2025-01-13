@@ -1,7 +1,7 @@
 # Airbnb-Santiago-Chile-2024-dashboard
 __Creación de un dashboard interactivo en Tableau sobre el mercado de Airbnb en Santiago, Chile__
 
-<image src="https://github.com/BastianLQ/Airbnb-Santiago-Chile-2024-dashboard/blob/main/Images/Sin%20t%C3%ADtulo.jpg" alt="Dashboard">
+<image src="https://github.com/BastianLQ/Airbnb-Santiago-Chile-2024-dashboard/blob/main/Images/dashboard.jpg" alt="Dashboard">
   
 _Captura de pantalla del dashboard, para ver en Tableau hacer click [aquí](https://public.tableau.com/app/profile/basti.n.l.pez/viz/TendenciasenYoutube/TendenciasenYouTube)_
 
