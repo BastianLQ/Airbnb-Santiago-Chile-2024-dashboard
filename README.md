@@ -19,3 +19,6 @@ Este dashboard contiene información sobre el mercado de Airbnb en la región me
   - __Sector norte:__ Colina, Huechuraba, Quilicura, Lampa, Tiltil, Conchalí.
 - Se categorizaron los datos (`listings.csv`) usando python y jupyter notebooks, y se creó un nuevo dataset llamado `airbnb_stgo.csv` con los datos optimizados.
 - Con los nuevos datos se construyó el dashboard.
+
+## Descubrimientos clave
+- La comuna con las habitaciones más caras es Lo Barnechea (precio mediano de $255.714), y su opuesto es Pedro Aguirre Cerda (precio mediano de $12.143). Es decir, una habitación en Lo Barnechea cuesta 21 veces lo que una en Pedro Aguirre Cerda.
