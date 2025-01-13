@@ -17,3 +17,5 @@ Este dashboard contiene información sobre el mercado de Airbnb en la región me
   - __Sector sur:__ Pedro Aguirre Cerda, San Joaquín, San Miguel, San Bernardo, Lo Espejo, La Cisterna, La Granja, Puente Alto, La Florida, La Pintana, El Bosque y San Ramón.
   - __Sector suroriente:__ Peñalolén, Macul, La Granja y Pirque.
   - __Sector norte:__ Colina, Huechuraba, Quilicura, Lampa, Tiltil, Conchalí.
+- Se categorizaron los datos (`listings.csv`) usando python y jupyter notebooks, y se creó un nuevo dataset llamado `airbnb_stgo.csv` con los datos optimizados.
+- Con los nuevos datos se construyó el dashboard.
