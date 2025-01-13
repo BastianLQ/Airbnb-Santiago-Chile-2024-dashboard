@@ -10,4 +10,10 @@ Este dashboard contiene información sobre el mercado de Airbnb en la región me
 
 ## Proceso del proyecto
 - Se descargaron los datos de la [web](https://insideairbnb.com/get-the-data/).
-- Revisando los datos, me percaté de que el campo "Neighborhood Group" (grupo de barrios o sector) estaba vacío, por ende se averiguó la disposición de las comunas y se clasificaron en SEGUIR AQUÍ.
+- Revisando los datos, me percaté de que el campo "Neighborhood Group" (grupo de barrios o sector) estaba vacío, por ende se averiguó la disposición de las comunas y se clasificaron en siete sectores diferentes:
+  - __Sector nororiente:__ Las Condes, Providencia, Vitacura, La Reina, Ñuñoa y Lo Barnechea.
+  - __Sector centro:__ Santiago, Estación Central, Quinta Normal, Independencia y Recoleta.
+  - __Sector poniente:__ Maipú, Cerrillos, Pudahuel, Lo Prado, Renca, Cerro Navia.
+  - __Sector sur:__ Pedro Aguirre Cerda, San Joaquín, San Miguel, San Bernardo, Lo Espejo, La Cisterna, La Granja, Puente Alto, La Florida, La Pintana, El Bosque y San Ramón.
+  - __Sector suroriente:__ Peñalolén, Macul, La Granja y Pirque.
+  - __Sector norte:__ Colina, Huechuraba, Quilicura, Lampa, Tiltil, Conchalí.
