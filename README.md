@@ -9,3 +9,4 @@ _Captura de pantalla del dashboard, para ver en Tableau hacer click [aquí](http
 Este dashboard contiene información sobre el mercado de Airbnb en la región metropolitana de Chile, principalmente, sobre los precios por ubicación y las reviews dejadas por los usuarios. Está inspirado en un trabajo del creador de contenido "DataScience RoadMap" en el que analiza el mercado de la plataforma de hosting para la ciudad de Nueva York.
 
 ## Proceso del proyecto
+- Se descargan los datos de la web [https://insideairbnb.com/get-the-data/].
