@@ -22,3 +22,7 @@ Este dashboard contiene información sobre el mercado de Airbnb en la región me
 
 ## Descubrimientos clave
 - La comuna con las habitaciones más caras es Lo Barnechea (precio mediano de $255.714), y su opuesto es Pedro Aguirre Cerda (precio mediano de $12.143). Es decir, una habitación en Lo Barnechea cuesta 21 veces lo que una en Pedro Aguirre Cerda.
+- Los gráficos de reviews y de agendamientos muestran que la aplicación está creciendo exponencialmente en la capital chilena.
+- El sector nororiente cuenta con un 53.5% de los hospedajes registrados, seguido del sector centro con un 39%.
+- El sector nororiente también es el sector con más agendamientos y con las habitaciones más caras.
+- El tipo de habitación mas reservado es "Casa/departamento".
